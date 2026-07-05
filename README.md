@@ -22,27 +22,4 @@ push
 -u
 origin
 main
-# lostandfoundportal
-git
-init
-git
-add
-.
-git
-commit
--m
-first commit
-git
-branch
--M
-main
-git
-remote
-add
-origin
-https://github.com/roshanshakthi2007-web/lostandfoundportal.git
-git
-push
--u
-origin
-main
+
